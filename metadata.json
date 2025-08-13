@@ -1,0 +1,5 @@
+{
+  "name": "AI Love Note Generator",
+  "description": "Create a personalized, animated love note. Enter a name, and our AI will generate a romantic poem, displayed amidst a beautiful cascade of hearts and floating messages.",
+  "requestFramePermissions": []
+}
